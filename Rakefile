@@ -15,7 +15,6 @@ task :link_vim_conf_files do
   end
 end
 
-
 namespace :dev do
   desc "Update submodules"
   task :update_submodules do
