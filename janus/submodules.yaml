@@ -36,39 +36,39 @@ submodules:
   # Langs
   #
   langs:
-    coffeescript:
-      categories:
-        - coffeescript
-        - syntax
+    # coffeescript:
+    #   categories:
+    #     - coffeescript
+    #     - syntax
     csv:
       categories:
         - csv
         - syntax
-    cucumber:
-      categories:
-        - ruby
-        - rails
-        - syntax
-        - behavior driven development
+    # cucumber:
+    #   categories:
+    #     - ruby
+    #     - rails
+    #     - syntax
+    #     - behavior driven development
     git:
       categories:
         - git
         - syntax
-    haml:
-      categories:
-        - ruby
-        - rails
-        - syntax
-    handlebars:
+    # haml:
+    #   categories:
+    #     - ruby
+    #     - rails
+    #     - syntax
+    # handlebars:
     javascript:
     markdown:
-    nodejs:
+    # nodejs:
     puppet:
-    rails:
-    rspec:
-    ruby:
-    scala:
-    scss:
+    # rails:
+    # rspec:
+    # ruby:
+    # scala:
+    # scss:
     textile:
 
 
